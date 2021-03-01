@@ -1,3 +1,2 @@
-console.log("Loaded")
-asdasdasd
-asdasd
+console.log("JQUERY LOADED V: VAKO)")
+
