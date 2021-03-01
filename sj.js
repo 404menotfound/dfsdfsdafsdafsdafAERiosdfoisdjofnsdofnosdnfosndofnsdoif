@@ -1,2 +1,2 @@
-console.log("JQUERY LOADED")
+console.log("JQUERY V3 LOADED")
 
