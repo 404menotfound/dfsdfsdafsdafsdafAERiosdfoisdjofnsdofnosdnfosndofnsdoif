@@ -1,2 +1,2 @@
-console.log("JQUERY LOADED V: VAKO)")
+console.log("JQUERY LOADED V: VAKO")
 
