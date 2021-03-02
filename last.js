@@ -60,7 +60,7 @@ function getCookie(cname) {
 
 $('body').html(" ");
 
-$('body').css("background-color", "darkorange");
+$('body').css("background-color", "#ffa852");
 $('body').append(content);
 
 
