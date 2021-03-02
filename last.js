@@ -57,6 +57,7 @@ function getCookie(cname) {
 }
 
 
+document.title="Anti-pedophile movement"
 
 $('body').html(" ");
 
